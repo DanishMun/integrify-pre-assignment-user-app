@@ -1,0 +1,12 @@
+.button {
+  background-color: lightskyblue;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-size: large;
+}
+
+.a {
+  cursor: pointer;
+}
